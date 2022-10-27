@@ -9,13 +9,22 @@
 ## Librerias
 
 Python
+
 Pandas 
+
 Numpy 
+
 Fastparquet 
+
 Openpyxl 
+
 Pyodbc
+
 Codecs
+
 Shutil
+
+
 ## Glosario del trabajo:
 
 ####Pogramas
