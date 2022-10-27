@@ -19,15 +19,23 @@ Shutil
 ## Glosario del trabajo:
 
 ####Pogramas
+
 MySQL:  gestión de bases de datos
+
 Visual Estudio: Un entorno de desarrollo integrado (IDE).
+
 OBS: Grabacion de video
 
 ####Libreria
+
 Pandas y Numpy : cargar datos, modelar, analizar, manipular y prepararlos.
+
 Openpyxl :formato para leer XlsX.
+
 Fastparquet : formato para leer parquet.
+
 Pyodbc: Conexio y importacion de datos a MySQL.
+
 Codecs y Shutil: Modificadores de enconding. 
 
 ## Paso a Seguir:
